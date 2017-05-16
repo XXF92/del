@@ -1,2 +1,3 @@
 adwed new func
 add new from master
+after set ssh key
