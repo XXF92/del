@@ -1,1 +1,2 @@
 adwed new func
+add new from master
